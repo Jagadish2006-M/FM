@@ -69,6 +69,7 @@ Program
 
 Output Waveform
 
+<img width="1919" height="1199" alt="EXP 4 212224060101" src="https://github.com/user-attachments/assets/6c4f3ccf-84b0-451b-8bf1-a1b4935198a2" />
 
 
 Tabulation
