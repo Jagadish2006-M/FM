@@ -66,17 +66,36 @@ MODEL GRAPH:
 
 Program
 
+Am=6.4;
+fm=501;
+Ac=12.8;
+fc=5010;
+fs=50100;
+B=6.5;
+t=0:1/fs:2/fm;
+m=Am*cos(2*3.14*fm*t);
+subplot(3,1,1);
+plot(t,m);
+c=Ac*cos(2*3.14*fc*t);
+subplot(3,1,2);
+plot(t,c);
+s=Ac.*cos((2*3.14*fc*t)+(B*sin(2*3.14*fm*t)));
+subplot(3,1,3);
+plot(t,s);
 
 Output Waveform
 
+<img width="1919" height="1199" alt="EXP 4 212224060101" src="https://github.com/user-attachments/assets/2aba83c9-a10b-4793-b3a0-42d35c5f3edd" />
 
 
 Tabulation
 
+![EXP 4 TABLE AC](https://github.com/user-attachments/assets/b90bca1e-0487-40b7-b8ab-0103c61c8ad3)
 
 
 Calculation
 
+![EXP 4 TABLE AC](https://github.com/user-attachments/assets/7d5e7fed-eb50-491c-9a3b-9445b770636c)
 
 
 Frequency Deviation Practical = 
