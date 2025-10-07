@@ -90,12 +90,12 @@ Output Waveform
 
 Tabulation
 
-![EXP 4 TABLE AC](https://github.com/user-attachments/assets/b90bca1e-0487-40b7-b8ab-0103c61c8ad3)
+![Exp 4 Acc](https://github.com/user-attachments/assets/e9211386-1423-40e0-a9a2-70e4a7f1eed6)
 
 
 Calculation
 
-![EXP 4 TABLE AC](https://github.com/user-attachments/assets/7d5e7fed-eb50-491c-9a3b-9445b770636c)
+![Exp 4 Acc](https://github.com/user-attachments/assets/bf5411ae-793b-491e-a166-c617081a6785)
 
 
 Frequency Deviation Practical = 
